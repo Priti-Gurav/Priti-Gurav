@@ -1,3 +1,4 @@
+![logo](https://github.com/Priti-Gurav/Priti-Gurav/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Priti Gurav</h1>
 <h3 align="center">Power BI developer from London</h3>
 
